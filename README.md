@@ -10,7 +10,7 @@ Detekcija i prepoznavanje rukopisa sa slike, tj. konverzija rukom napisanih kara
 Konvolucione neuronske mreže
 
 **Podaci koji se koriste:** <br>
-Podaci koji će se koristiti pri rešavanju problema se nalaze u dataset-u na linku: https://www.kaggle.com/landlord/handwriting-recognition
+Podaci koji će se koristiti pri rešavanju problema se nalaze u dataset-u na linku: https://www.kaggle.com/landlord/handwriting-recognition - _Zbog prevelikog skupa podataka, podaci nisu push-ovani na github repozitorijum_
 
 **Metrika za merenje performansi:** <br>
 Za metriku će biti korišćen procenat uspešnosti klasifikovanih slika, gde je sve preko 85% tačnosti uspešno klasifikovano, a ispod neuspešno
